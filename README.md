@@ -1,4 +1,4 @@
-readingmlbooks
+好好讀機器學習的書
 ==============
 
-Thoughts from reading and summary of very good machine learning books 
+精挑細選的書。
